@@ -3,8 +3,8 @@
 
 [![View PDF](https://img.shields.io/badge/View-Presentation-red?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/alessandro-selmi/random-matrix-correlation/blob/main/Presentation.pdf)
 
-
 Numerical investigation of the spectral properties of financial correlation matrices using Random Matrix Theory. Simulation of synthetic market data to analyse eigenvalue spectra, eigenvector statistics and emergence of signal components beyond the Marchenko–Pastur noise band.
+The core logic of the simulation is implemented in main.m, which handles the matrix generation and the comparison with theoretical distributions.
 
 **Key Objectives:**
 1. **Eigenvalue Distribution vs. Marcenko-Pastur Density:**
