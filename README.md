@@ -14,6 +14,6 @@ The core logic of the simulation is implemented in main.m, which handles the mat
 2. **Eigenvector Analysis:**
    - Investigated eigenvectors corresponding to "outlier" eigenvalues (those deviating from the bulk) to identify dominant market factors or noise.
 3. **Level Spacing Statistics:**
-   - Compared the distribution of eigenvalue spacings (distances) with the **Wigner Surmise**, testing the universality of Random Matrix Theory (RMT).
+   - Compared the distribution of eigenvalue spacings (distances) with the Wigner Surmise, testing the universality of Random Matrix Theory (RMT).
 
 Note: For visual results, plots, and key formulas (e.g., Wigner Surmise), please refer to the 'Presentation.pdf' file in the repository.
