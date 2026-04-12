@@ -16,4 +16,4 @@ The core logic of the simulation is implemented in main.m, which handles the mat
 3. **Level Spacing Statistics:**
    - Compared the distribution of eigenvalue spacings (distances) with the Wigner Surmise, testing the universality of Random Matrix Theory (RMT).
 
-Note: For visual results, plots, and key formulas (e.g., Wigner Surmise), please refer to the 'Presentation.pdf' file in the repository.
+Note: The presentation (Presentation.pdf) is primarily visual and mathematical. While it contains brief explanatory notes in Italian, the core content—formulas, eigenvalue plots, and data visualizations—is universally accessible. The simulation code (main.m) is entirely language-agnostic.
